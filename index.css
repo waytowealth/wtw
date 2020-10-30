@@ -1,0 +1,55 @@
+/* Global Styles */
+
+body {
+    margin: 0rem;
+}
+body::-webkit-scrollbar {
+    display: none !important;
+}
+.footer-container {
+    height: auto !important;
+    width: 100%;
+    background-color: #eeeeee;
+}
+.home-container {
+    height: 100vh !important;
+    width: 100%;
+    background-color: #222831;
+    /* vertical-align: middle !important; */
+    display: table !important;
+}
+.home-sub {
+    display: table-cell !important;
+    vertical-align: middle !important;
+}
+
+.about-container {
+    height: 100vh !important;
+    width: 100%;
+    background-color: #393e46 !important;
+    display: table !important;
+}
+.about-sub {
+    display: table-cell !important;
+    vertical-align: middle !important;
+}
+.course-container {
+    height: 100vh !important;
+    width: 100%;
+    background-color: #00adb5 !important;
+}
+.contact-container {
+    height: 100vh !important;
+    width: 100%;
+    background-color: #eeeeee !important;
+}
+.about-page-container {
+    height: 100vh !important;
+    width: 100%;
+    background-color: #393e46 !important;
+}
+.content-page-container {
+    height: auto !important;
+    width: 100%;
+    background-color: #393e46 !important;
+}
